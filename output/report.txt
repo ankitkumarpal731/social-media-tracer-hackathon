@@ -1,0 +1,16 @@
+Social Media Trace Report
+==========================
+
+Phone Number: +919876543210
+Valid: True
+Carrier: Jio
+Country: India
+
+Username: ankitkumar
+Profiles Found:
+- https://github.com/ankitkumar
+- https://instagram.com/ankitkumar
+
+Email Address: ankitkumar@mail.com
+Valid: True
+Domain: mail.com

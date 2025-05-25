@@ -1,0 +1,20 @@
+{
+    "phone": {
+        "number": "+919876543210",
+        "valid": true,
+        "carrier": "Jio",
+        "country": "India"
+    },
+    "username": {
+        "name": "ankitkumar",
+        "profiles": [
+            "https://github.com/ankitkumar",
+            "https://instagram.com/ankitkumar"
+        ]
+    },
+    "email": {
+        "address": "ankitkumar@mail.com",
+        "valid": true,
+        "domain": "mail.com"
+    }
+}
