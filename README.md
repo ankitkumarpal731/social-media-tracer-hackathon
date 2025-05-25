@@ -1,15 +1,26 @@
-# 🔍 Social Media Tracer
+# 🔍 Social Media Tracer (CyberHackathon 2025)
 
-A powerful OSINT tool built for **CyberHackathon 2025** — trace social media profiles from email or phone numbers with:
+A powerful OSINT tool to trace the **social/digital presence** of a user based on their email address or phone number.
 
-- 📊 Platform match detection (WhatsApp, Telegram, etc.)
-- 🧠 Deep Scan via Sherlock (usernames on 300+ platforms)
-- 🔍 Deep Scan via Maigret (emails, phones, usernames)
-- 📈 Visual graph using pyvis
-- 📄 PDF report export of results
+Built using Python, Streamlit, Sherlock, and Maigret — designed to assist in **cybercrime investigations**, **awareness**, and **digital footprint analysis**.
 
-## 🔧 How to Run
+---
 
-### 1. Install dependencies
+## 🚀 Features
+
+- 📩 **Input**: Email address or Phone number
+- 🔎 **Quick Scan**: Simulated fast trace of common platforms (WhatsApp, Telegram, Truecaller)
+- 🧠 **Deep Scan (Sherlock)**: Checks username on 300+ social platforms
+- 🕵️ **Deep Scan (Maigret)**: Powerful OSINT tracing using phone/email/username
+- 📈 **Graph Visualization**: Interactive platform match graph (via Pyvis)
+- 📄 **PDF Report Export**: Download a complete trace report
+- 🌐 **Streamlit Web App**: Easy-to-use interface
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+### 🔹 Step 1: Clone the repository
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/ankitkumarpal731/social-media-tracer-hackathon.git
+cd social-media-tracer-hackathon
